@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Student\Student.class
+com\example\demo\Student\StdentController.class
+com\example\demo\Student\Gender.class
